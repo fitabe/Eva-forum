@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fitabe/Eva-forum.git"
+    "url": "git+https://github.com/fitabe/ForumFront"
   },
   "author": "fitsum",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fitabe/Eva-forum.git"
+    "url": "https://github.com/fitabe/ForumFront"
   },
-  "homepage": "https://github.com/fitabe/Eva-forum.git#readme",
+  "homepage": "https://github.com/fitabe/ForumFront",
   "dependencies": {
     "axios": "^0.26.0",
     "bcryptjs": "^2.4.3",
